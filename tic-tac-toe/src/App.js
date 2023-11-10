@@ -6,7 +6,7 @@ import { ScoreBoard } from "./components/ScoreBoard";
 import './App.css';
 
 const App = () => {
-
+// All the win possibilities
   const WIN_CONDITIONS = [
     [0, 1, 2],
     [3, 4, 5],
